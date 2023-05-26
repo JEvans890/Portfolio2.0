@@ -8,14 +8,25 @@ body {
 
 /*CLASSES*/
 
-.lists {
+.images {
+    width: 275px;
+    padding: 5%;
+    border-image: 5px;
+    border-color: black;
+    outline-style: dotted;
+    outline: 2px solid black;
+    margin: 5%;
+}
+
+.list {
     text-align: left;
-    padding: 50px;
-    border: 5px blue;
+    padding: 10%;
+    border: 5px solid rgb(255, 0, 0);
 
 }
 
 .Heading2 {
+    width: 100%;
     text-align: center;
     border: 50px;
     border-color: black;
