@@ -1,0 +1,18 @@
+/*CLASSES*/
+
+.Header {
+    width: 50% border: 10px pink;
+
+}
+
+.Resume {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: right
+}
+
+/*IDs*/
+
+#Heading {
+    font-size: large;
+    font-family: sans-serif;
+}
