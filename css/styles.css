@@ -1,11 +1,21 @@
+body {
+    background-color: pink;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
 /*CLASSES*/
-h1 {
-    color: blue;
+
+.lists {
+    text-align: left;
+    border: 5px;
+    border-color: aquamarine text-color: blue;
 }
 
 .Header {
     width: 750px;
-    border: 10px pink;
+    border: 10px rgb(255, 0, 43);
 
 }
 
@@ -16,7 +26,8 @@ h1 {
 
 /*IDs*/
 
-#Heading {
-    font-size: large;
+h1 {
+    font-size: xx-large;
     font-family: sans-serif;
+    color: hotpink
 }
