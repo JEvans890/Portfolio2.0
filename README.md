@@ -21,7 +21,8 @@ _This is an example webpage detailing my resume and ability to understand introd
 * _Open The Application Through VS Code_
 * _Download The Live Server Extension _
 * _Open the Portfolio.html extension through VSCode/LiveShare_
-* _OR... Access the finished website product through GH Pages/the URL
+* _OR... Access the finished website product through GH Pages/the URL:
+  https://jevans890.github.io/Portfolio2.0/
 
 ## Known Bugs
 
