@@ -13,8 +13,8 @@ body {
     padding: 5%;
     border-image: 5px;
     border-color: black;
+    outline: 10px solid black;
     outline-style: dotted;
-    outline: 2px solid black;
     margin: 5%;
 }
 
@@ -25,7 +25,7 @@ body {
 
 }
 
-.Heading2 {
+.Heading {
     width: 100%;
     text-align: center;
     border: 50px;
@@ -42,4 +42,14 @@ h1 {
     font-size: xx-large;
     font-family: sans-serif;
     color: hotpink
+}
+
+#float1 {
+    float:left;
+    display:flow-root;
+
+}
+
+#clear {
+    clear:both;
 }
